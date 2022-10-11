@@ -1,16 +1,7 @@
-# weather_clean_arch
+# weather_clean_architecture
 
 clean architecture data call flow
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Clean architecture](https://user-images.githubusercontent.com/82487125/194993354-8c932a17-7afe-48e6-bc82-65fa41c70bcc.png)
+![Clean-Architecture-graph](https://user-images.githubusercontent.com/82487125/194993364-b739c192-c16b-4e2b-bbc8-47439a68e887.png)
+![Clean-Architecture-graph2](https://user-images.githubusercontent.com/82487125/194993373-75f1e9b7-5346-4418-9976-f469545e6822.png)
